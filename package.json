@@ -1,0 +1,21 @@
+{
+    "name": "app1",
+    "version": "1.1.0",
+    "description": "Leedian City Portal",
+    "author": "franco.liu",
+    "private": true,
+    "scripts": {
+        "dev": "node app.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "express": "^4.14.1"
+    },
+    "engines": {
+        "node": ">= 4.0.0",
+        "npm": ">= 3.0.0"
+    },
+    "browserslist": [
+        "last 7 versions"
+    ]
+}
