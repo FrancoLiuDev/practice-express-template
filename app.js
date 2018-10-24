@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 
-app.use(express.static('html5up-massively'));
+app.use(express.static('axure'));
 
 
 app.listen(8080, function() {
