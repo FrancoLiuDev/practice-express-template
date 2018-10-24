@@ -9,6 +9,12 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
+.placeholder {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -59,4 +65,8 @@
 }
 .html_button {
   text-align:center;
+}
+.snapshot {
+}
+.flow_shape {
 }
